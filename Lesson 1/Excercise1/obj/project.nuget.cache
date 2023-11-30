@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tzcm5qpVix24QD74ePfK4YyXHX5Pvh5TRi96o4VccFIPI9K49AV2ZmmOEKaOtwgxOtbQV3HkPCq2jkRv9oej0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Pratice-Day1\\Lesson 1\\Excercise1\\Excercise1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
