@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\P2_Lesson 3\Exercise_7c\bin\Debug\netcoreapp3.1\Exercise_7c.exe
+C:\Users\Admin\source\repos\P2_Lesson 3\Exercise_7c\bin\Debug\netcoreapp3.1\Exercise_7c.deps.json
+C:\Users\Admin\source\repos\P2_Lesson 3\Exercise_7c\bin\Debug\netcoreapp3.1\Exercise_7c.runtimeconfig.json
+C:\Users\Admin\source\repos\P2_Lesson 3\Exercise_7c\bin\Debug\netcoreapp3.1\Exercise_7c.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\P2_Lesson 3\Exercise_7c\bin\Debug\netcoreapp3.1\Exercise_7c.dll
+C:\Users\Admin\source\repos\P2_Lesson 3\Exercise_7c\bin\Debug\netcoreapp3.1\Exercise_7c.pdb
+C:\Users\Admin\source\repos\P2_Lesson 3\Exercise_7c\obj\Debug\netcoreapp3.1\Exercise_7c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\P2_Lesson 3\Exercise_7c\obj\Debug\netcoreapp3.1\Exercise_7c.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\P2_Lesson 3\Exercise_7c\obj\Debug\netcoreapp3.1\Exercise_7c.AssemblyInfo.cs
+C:\Users\Admin\source\repos\P2_Lesson 3\Exercise_7c\obj\Debug\netcoreapp3.1\Exercise_7c.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\P2_Lesson 3\Exercise_7c\obj\Debug\netcoreapp3.1\Exercise_7c.dll
+C:\Users\Admin\source\repos\P2_Lesson 3\Exercise_7c\obj\Debug\netcoreapp3.1\Exercise_7c.pdb
+C:\Users\Admin\source\repos\P2_Lesson 3\Exercise_7c\obj\Debug\netcoreapp3.1\Exercise_7c.genruntimeconfig.cache
