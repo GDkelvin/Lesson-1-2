@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Exercise_1</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Coffee.jpg" />
+    <None Remove="Iced Tea.jpg" />
+    <None Remove="Mango Shake.jpg" />
+    <None Remove="Milk.jpg" />
+    <None Remove="OrangeJuice.jpg" />
+    <None Remove="Tea.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Coffee.jpg" />
+    <Resource Include="Iced Tea.jpg" />
+    <Resource Include="Mango Shake.jpg" />
+    <Resource Include="Milk.jpg" />
+    <Resource Include="OrangeJuice.jpg" />
+    <Resource Include="Tea.jpg" />
+  </ItemGroup>
+
+</Project>
